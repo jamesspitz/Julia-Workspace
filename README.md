@@ -1,1 +1,1 @@
-# OptimizationProjs
+# Projects for CS524
